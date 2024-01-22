@@ -1,2 +1,4 @@
 # YangQC-Code
-Detection of Drug Residues in Bean Sprouts by Hyperspectral Imaging Combined with 1DCNN with Channel Attention Mechanism
+Detection of Drug Residues in Bean Sprouts by Hyperspectral Imaging Combined with 1DCNN with Channel Attention Mechanism  
+
+Code & data available in the "master" branch.  
